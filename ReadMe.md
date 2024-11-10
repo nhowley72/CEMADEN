@@ -19,9 +19,8 @@ The main objective of this project was to develop methods for predicting soil mo
 
 ## Directory Structure
 
-📁 CEMADEN/
-├── Enhancing_Spatial_Predictions__An_Exploratory_Study.ipynb
-├── Genetic Algorithms - BreastCancer PCA test.ipynb
+
+📁 CEMADEN/├── Enhancing_Spatial_Predictions__An_Exploratory_Study.ipynb├── Genetic Algorithms - BreastCancer PCA test.ipynb
 ├── Genetic Algorithms - Initial Tests.ipynb
 ├── Moisture_12m.txt
 ├── Moisture_5m.txt
