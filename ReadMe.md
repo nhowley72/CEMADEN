@@ -61,7 +61,7 @@ The repository contains several text files and CSV files with soil moisture data
 
 - **Moisture_5m.txt, Moisture_9m.txt, Moisture_12m.txt**: Soil moisture data files at depths of 5m, 9m, and 12m, respectively.
 - **Moisture_Content_All_Soils_Result.txt**: Consolidated soil moisture data for all samples.
-- **SecondaryData.txt & SecondaryDataPlasticity.txt**: Secondary data files likely containing additional soil properties.
+- **SecondaryData.txt & SecondaryDataPlasticity.txt**: Secondary data files containing additional soil properties.
 - **newData.csv**: Primary dataset used for analysis and model training.
 
 ## Notebooks
