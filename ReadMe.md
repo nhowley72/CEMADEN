@@ -20,7 +20,25 @@ The main objective of this project was to develop methods for predicting soil mo
 ## Directory Structure
 
 
-📁 CEMADEN/ ├── data/ │ ├── Moisture_12m.txt │ ├── Moisture_5m.txt │ ├── Moisture_9m.txt │ ├── Moisture_Content_All_Soils_Result.txt │ ├── SecondaryData.txt │ ├── SecondaryDataPlasticity.txt │ ├── newData.csv ├── Enhancing_Spatial_Predictions__An_Exploratory_Study.ipynb ├── Genetic Algorithms - BreastCancer PCA test.ipynb ├── Genetic Algorithms - Initial Tests.ipynb ├── Soil Moisture - Cokriging & N Dimensional Interpolation.ipynb ├── Soil Moisture - Gaussian Kriging and Cokriging.ipynb ├── Soil Moisture - Mathematical Analysis of Geostatistical Models.ipynb ├── Soil Moisture - Spherical Kriging.ipynb ├── Soil Moisture - Time Series Forecasting + Shapiro-Wilk Test.ipynb ├── Soil Moisture - Variogram Models for Cokriging.ipynb ├── README.md
+📁 CEMADEN/ 
+├── data/ 
+│ ├── Moisture_12m.txt 
+│ ├── Moisture_5m.txt 
+│ ├── Moisture_9m.txt 
+│ ├── Moisture_Content_All_Soils_Result.txt 
+│ ├── SecondaryData.txt 
+│ ├── SecondaryDataPlasticity.txt 
+│ ├── newData.csv 
+├── Enhancing_Spatial_Predictions__An_Exploratory_Study.ipynb 
+├── Genetic Algorithms - BreastCancer PCA test.ipynb 
+├── Genetic Algorithms - Initial Tests.ipynb 
+├── Soil Moisture - Cokriging & N Dimensional Interpolation.ipynb 
+├── Soil Moisture - Gaussian Kriging and Cokriging.ipynb 
+├── Soil Moisture - Mathematical Analysis of Geostatistical Models.ipynb 
+├── Soil Moisture - Spherical Kriging.ipynb 
+├── Soil Moisture - Time Series Forecasting + Shapiro-Wilk Test.ipynb 
+├── Soil Moisture - Variogram Models for Cokriging.ipynb 
+├── README.md
 
 
 ## Dependencies
