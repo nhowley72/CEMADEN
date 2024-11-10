@@ -29,7 +29,7 @@ CEMADEN/
 │   ├── SecondaryData.txt  
 │   ├── SecondaryDataPlasticity.txt  
 │   ├── newData.csv  
-├── Enhancing_Spatial_Predictions__An_Exploratory_Study.ipynb  
+
 ├── Genetic Algorithms - BreastCancer PCA test.ipynb  
 ├── Genetic Algorithms - Initial Tests.ipynb  
 ├── Soil Moisture - Cokriging & N Dimensional Interpolation.ipynb  
