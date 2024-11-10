@@ -28,7 +28,7 @@ CEMADEN/
 │   ├── Moisture_Content_All_Soils_Result.txt
 │   ├── SecondaryData.txt
 │   ├── SecondaryDataPlasticity.txt
-│   ├── newData.csv
+│   └── newData.csv
 ├── Enhancing_Spatial_Predictions__An_Exploratory_Study.ipynb
 ├── Genetic Algorithms - BreastCancer PCA test.ipynb
 ├── Genetic Algorithms - Initial Tests.ipynb
@@ -38,7 +38,8 @@ CEMADEN/
 ├── Soil Moisture - Spherical Kriging.ipynb
 ├── Soil Moisture - Time Series Forecasting + Shapiro-Wilk Test.ipynb
 ├── Soil Moisture - Variogram Models for Cokriging.ipynb
-├── README.md
+└── README.md
+
 
 ## Dependencies
 
