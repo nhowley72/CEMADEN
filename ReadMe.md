@@ -20,7 +20,6 @@ The main objective of this project was to develop methods for predicting soil mo
 ## Directory Structure
 
 The repository is organized as follows:
-
 CEMADEN/
 ├── data/
 │   ├── Moisture_12m.txt
