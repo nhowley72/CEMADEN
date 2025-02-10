@@ -76,10 +76,10 @@ Each Jupyter notebook focuses on a specific analysis or algorithm relevant to so
 6. **Soil Moisture - Mathematical Analysis of Geostatistical Models.ipynb**: Mathematical background and analysis of various geostatistical models used in soil science.
 7. **Soil Moisture - Spherical Kriging.ipynb**: Implementation of spherical kriging for soil moisture prediction.
 8. **Soil Moisture - Time Series Forecasting + Shapiro-Wilk Test.ipynb**: Time series forecasting of soil moisture with normality testing using the Shapiro-Wilk test.
-9. **Soil Moisture - Variogram Models for Cokriging.ipynb**: Analysis and modeling of variograms, essential for cokriging in geostatistics.
+9. **Soil Moisture - Variogram Models for Cokriging.ipynb**: Analysis and modelling of variograms, essential for cokriging in geostatistics.
 
 ## Contact
 
-For further information or questions, please reach out to the repository owner.
+For further information or questions, please reach out via LinkedIn or email.
 
 --- 
